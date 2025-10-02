@@ -12,12 +12,12 @@ export default function Home() {
         />
         <h3 className="text-white text-xl">Mexican Student Union</h3>
       </header>
-      <h1 className="text-5xl font-medium flex items-center gap-1 text-white">
+      <h1 className="text-5xl font-medium flex items-center text-white">
         Hello, MEXSU
       </h1>
-      <p className="px-4 py-1 bg-black/5 liquid-glass rounded-full text-white font-light">
+      <p className="px-4 py-1 space-x-0.5 bg-black/5 liquid-glass rounded-full text-white font-light">
         <span>Built by Ray Chu</span>
-        <span className="wave-animation">👋</span>
+        <span className="wave-animation"> 👋</span>
       </p>
       <div
         aria-label="Background gradient"
