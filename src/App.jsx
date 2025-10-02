@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="flex flex-col gap-3 items-center justify-center w-[100dvw] h-[100dvh]">
+    <div className="flex flex-col gap-3 items-center justify-center w-[100dvw] h-[100dvh] overflow-hidden">
       <header className="absolute left-4 top-4 flex items-center gap-4">
         <img
           src="mexsu.png"
